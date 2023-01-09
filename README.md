@@ -6,15 +6,12 @@
     <tr style="text-align: center">
         <td style="text-align: center; color:#00697f ">
             <h5>Inönü University Computer Engineering - Master's - Pattern Recognition </h5>
+            <hr/>
+            <h5>İnönü Üniversitesi - Bilgisayar Mühendisliği - Yüksek Lisans - Örüntü Tanıma Dersi </h5>
         </td>
         <td rowspan=3, style="text-align: center; color:#00697f">
             <img src="inonu_ai.png" width="100"/>
         </td>       
-    </tr>
-    <tr>
-        <td style="text-align: center; color:#00697f">
-            <h5>İnönü Üniversitesi - Bilgisayar Mühendisliği - Yüksek Lisans - Örüntü Tanıma Dersi </h5>
-        </td>
     </tr>
     <tr>
         <td style="text-align: center">
