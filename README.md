@@ -76,7 +76,7 @@ VeriSeti Kullanımı ve Teşhis Sınıflandırması aşağıdaki tabloda verilmi
     </tr>       
 </table>
 
-
+Biz Bu Repoda EfficientNet-V2-L Modelini Kullandık. Daha fazla bilgi bağlantıdaki için Tensorflow Kurumsal sayfasına bakınız:https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet_v2/EfficientNetV2L 
 Efficient-Net-V2 Modelleri:
 
 <table>
