@@ -23,4 +23,4 @@
     </tr>
 </table>
 
-
+<a href="DR-EfficientNet-V2-L.ipynb">Main Notebook - Ana Dosya</a>.
