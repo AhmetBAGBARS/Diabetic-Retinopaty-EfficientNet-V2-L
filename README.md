@@ -180,13 +180,13 @@ Efficient-Net-V2 Modelleri:
 <hr/>
 
 <h5> 1.Giriş </h5>
-<p style="text-align: justify;text-justify: inter-word;">
+<p style="text-align:justify;">
 Diyabet, zamanla kalpte, kan damarlarında, gözlerde, böbreklerde ve sinirlerde ciddi hasara yol açan yüksek kan şekeri (veya kan şekeri) seviyeleri ile karakterize edilen kronik, metabolik bir hastalıktır. En yaygın olanı, genellikle yetişkinlerde vücut insüline dirençli hale geldiğinde veya yeterli insülin üretmediğinde ortaya çıkan tip 2 diyabettir. Son 30 yılda, tip 2 diyabetin yaygınlığı, tüm gelir düzeylerindeki ülkelerde önemli ölçüde arttı. Bir zamanlar jüvenil diyabet veya insüline bağımlı diyabet olarak bilinen Tip 1 diyabet, pankreasın kendi başına çok az insülin ürettiği veya hiç üretmediği kronik bir durumdur. Diyabetle yaşayan insanlar için, insülin de dahil olmak üzere uygun fiyatlı tedaviye erişim, hayatta kalmaları için kritik öneme sahiptir. 2025 yılına kadar diyabet ve obezitedeki artışı durdurmak için küresel olarak kabul edilmiş bir hedef var (WHO, 2022).
 </p>
-<p style="text-align: justify;text-justify: inter-word;">
+<p style="text-align:justify;">
 Dünya çapında yaklaşık 422 milyon insan diyabet hastası olup, çoğunluğu düşük ve orta gelirli ülkelerde yaşamaktadır ve her yıl 1,5 milyon ölüm doğrudan diyabete bağlanmaktadır. Hem vaka sayısı hem de diyabet prevalansı son birkaç on yılda istikrarlı bir şekilde artmaktadır (WHO, 2022).
 </p>
-<p style="text-align: justify;text-justify: inter-word;">
+<p style="text-align:justify;">
 Diyabetik retinopati, DSÖ Avrupa Bölgesi'nde önlenebilir görme bozukluğu ve körlüğün önde gelen nedenlerinden biridir (Flaxman ve ark., 2017). Diyabetli kişilerin yaklaşık üçte birinde görülür ve erken teşhis ve tarama yoluyla tedavi ile görme üzerindeki zararlı etkileri önlenebilir (Lee ve ark., 2015; Thomas ve ark., 2019; Williams ve ark., 2004). Görme bozukluğu ve körlük, sağlık ve sosyal bakım kaynaklarının kullanımı ve ekonomik üretkenlik üzerindeki etkisi açısından önemli ekonomik sonuçlara sahiptir (WHO 2019).
 </p>
 
