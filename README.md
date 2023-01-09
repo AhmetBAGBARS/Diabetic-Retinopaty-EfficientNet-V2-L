@@ -48,7 +48,7 @@ VeriSeti Kullanımı ve Teşhis Sınıflandırması aşağıdaki tabloda verilmi
 
 <table style="border: 1px solid;">
     <tr>
-        <th style="text-align: center" colspan=3>DataSet Diagnosis - VeriSeti Açıklamaları </th> 
+        <th style="text-align: center" colspan=3>DataSet Diagnosis - VeriSeti Teşhis Sınıflandırması </th> 
     </tr>    
     <tr>
         <th>Class (Sınıf)</th>
