@@ -48,26 +48,24 @@ VeriSeti Kullanımı ve Teşhis Sınıflandırması aşağıdaki tabloda verilmi
 
 <table style="border: 1px solid;">
     <tr>
-    <th style="text-align: center" colspan=3>DataSet Diagnosis - VeriSeti Açıklamaları </th> 
-    </tr>
+        <th style="text-align: center" colspan=3>DataSet Diagnosis - VeriSeti Açıklamaları </th> 
+    </tr>    
     <tr>
         <th>Class (Sınıf)</th>
         <th>Diagnosis (Teşhis)</th>
-    </tr>
-   
+    </tr>   
     <tr>
         <td>0</td>
         <td>No DR (Diyabetik Retinopati Yok)</td> 
-    </tr>
+    </tr>    
     <tr>
         <td>1</td>
         <td>Mild (Hafif Seviyede) </td>
-    </tr>
+    </tr>    
     <tr>
         <td>2</td>
         <td>Moderate (Orta Seviyede)</td>
-    </tr>
-    
+    </tr>    
     <tr>
         <td>3</td>
         <td>Severe  (İleri Seviyede) </td>
@@ -75,10 +73,7 @@ VeriSeti Kullanımı ve Teşhis Sınıflandırması aşağıdaki tabloda verilmi
     <tr>
         <td>4</td>
         <td>Poliferative DR (Körlük Başlamak üzere veya Başlamış)</td>
-    </tr>
-
-    
-    
+    </tr>       
 </table>
 
 
