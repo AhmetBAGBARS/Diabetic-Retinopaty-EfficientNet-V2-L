@@ -1,4 +1,8 @@
-<h3 style='text-align: center; color:#00697f'> Diyabetik Retinopati - Körlük Tespiti </h3>
+<h3 style='text-align: center; color:#00697f'> 
+Diyabetik Retinopati - Körlük Tespiti 
+<hr/>
+Diabetic Retinopathy - Blindless Detection
+</h3>
 <h4 style='text-align: center; color:#00697f'> Implementation of EfficientNet-V2-L CNN Model</h4>
 <h4 style='text-align: center; color:#00697f'> Görüntü Sınıflandırma EfficientNet-V2-L CNN Modeli Uygulaması</h4>
 
